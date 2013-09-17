@@ -1,0 +1,6 @@
+name: "Есть ли жизнь без ООП?"
+description: "Блог о программировании и Erlang"
+
+url: "http://blog.gosk.in"
+
+paginate: 30
