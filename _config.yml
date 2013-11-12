@@ -15,7 +15,7 @@ author :
   email : z@gosk.in
   github : stolen
   twitter : st_deer
-  #feedburner : feedname
+  feedburner : false
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
