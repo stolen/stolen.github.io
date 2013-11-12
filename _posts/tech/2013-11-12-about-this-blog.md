@@ -1,6 +1,6 @@
 ---
 layout: post
-category : lessons
+category : tech
 tagline: "О блоге"
 tags : [about, programming, erlang]
 ---
