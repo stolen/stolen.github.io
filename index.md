@@ -1,7 +1,7 @@
 ---
 layout: page
 category : tech
-tagline: "О блоге"
+tagline: "О  блоге"
 ---
 
 - Пункт 1
